@@ -1,0 +1,104 @@
+html, body {
+	max-width: 100%;
+	font-family: 'Raleway', Arial, sans-serif;
+	box-sizing: border-box;
+	color: #5b5b5b;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+/*
+
+header
+
+*/
+
+header {
+	color: #5b5b5b;
+	font-family: 'Raleway';
+	color: #008f95;
+}
+
+header img{
+	border-radius: 180px;
+	height: 200px;
+	width: 200px;
+	
+}
+
+header .logo {
+	display: inline-block;
+	padding-top: 20px;
+	padding-left: 30px;
+	margin: 0px;
+}
+
+header .name {
+	display: inline-block;
+	text-align: right;
+	padding-top: 70px;
+	padding-right: 30px;
+	margin: 0px;
+}
+
+header h1 {
+	font-size: 58px;
+}
+
+header h4 {
+	font-size: 20px;
+}
+
+/*
+
+main
+
+*/
+
+.main {
+	color: #008f95;
+}
+
+.main h3 {
+	text-align: center;
+}
+
+/*
+
+footer
+
+*/
+
+footer .row {
+	background-color: #008f95;
+	color: #fff;
+	margin-top: 20px;
+}
+
+footer .col-md-4 {
+	display: inline-block;
+}
+
+footer h5 {
+	font-size: 20px;
+}
+
+footer li {
+	list-style: none;
+}
+
+footer a {
+	text-decoration: none;
+	color: #fff;
+}
+
+footer a:hover {
+	cursor: pointer;
+	color: #fff;
+}
+
+footer a:visited {
+	text-decoration: none;
+}
